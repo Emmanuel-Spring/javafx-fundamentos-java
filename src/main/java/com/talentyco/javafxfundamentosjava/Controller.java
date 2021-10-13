@@ -1,2 +1,4 @@
-package com.talentyco.javafxfundamentosjava;public class Controller {
+package com.talentyco.javafxfundamentosjava;
+
+public class Controller {
 }
